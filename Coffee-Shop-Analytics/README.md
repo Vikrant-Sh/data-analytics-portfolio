@@ -9,7 +9,7 @@ The dashboard was built to simulate a real-world business reporting scenario.
 ## 🎥 Dashboard Demo
 
 <p align="center">
-  <img src="coffee-sales.gif" width="800"/>
+  <img src="Coffee-Sales.gif" width="800"/>
 </p>
 
 ---
@@ -17,7 +17,7 @@ The dashboard was built to simulate a real-world business reporting scenario.
 ## 📊 Dashboard Overview
 
 <p align="center">
-  <img src="coffee-sales-1.png" width="800"/>
+  <img src="Coffee-Sales-1.png" width="800"/>
 </p>
 
 ---
