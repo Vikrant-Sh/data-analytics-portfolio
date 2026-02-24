@@ -9,7 +9,7 @@ The dashboard simulates a real-world HR analytics reporting scenario to support 
 ## 🖼 Use Case
 
 <p align="center">
-  <img src="HR-UseCase.png" width="800"/>
+  <img src="HR-UseCase.jpg" width="800"/>
 </p>
 
 ---
